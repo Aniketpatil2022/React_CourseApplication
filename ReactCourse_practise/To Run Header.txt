@@ -1,0 +1,12 @@
+To run the Header file this should be return int the App file. 
+
+<div>
+      
+      <Header name="Aniket Patil" title="First Card"/>
+      <hr />
+      <Header name ="Neha Patil" title="Second Card"/>
+      <hr/>
+      <Header name="Vandana Patil"  title="Footer"/>
+  
+    </div>
+  
